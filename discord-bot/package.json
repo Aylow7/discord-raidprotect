@@ -1,0 +1,29 @@
+{
+  "name": "discord-raidprotect",
+  "version": "1.0.0",
+  "description": "Bot de protection discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aylow7/discord-raidprotect.git"
+  },
+  "keywords": [
+    "protection",
+    "discord",
+    "bot"
+  ],
+  "author": "Aylow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aylow7/discord-raidprotect/issues"
+  },
+  "homepage": "https://github.com/Aylow7/discord-raidprotect#readme",
+  "dependencies": {
+    "discord.js": "^14.22.0",
+    "dotenv": "^17.2.3"
+  }
+}
